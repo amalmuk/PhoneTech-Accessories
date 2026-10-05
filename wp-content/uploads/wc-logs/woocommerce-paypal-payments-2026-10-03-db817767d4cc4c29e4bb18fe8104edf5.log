@@ -1,0 +1,2 @@
+2026-10-03T20:37:31+00:00 DEBUG #2084 - [New Request] POST /wordpress/
+2026-10-03T20:37:31+00:00 ERROR #2084 - SDK v6 client token runtime error: Cannot request a PayPal client token without a client ID and secret.
