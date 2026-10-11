@@ -1,0 +1,2 @@
+2026-10-06T17:15:49+00:00 DEBUG #7307 - [New Request] POST /wordpress/
+2026-10-06T17:15:49+00:00 ERROR #7307 - SDK v6 client token runtime error: Cannot request a PayPal client token without a client ID and secret.
